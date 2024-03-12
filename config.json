@@ -1,0 +1,28 @@
+{
+    "token": "",
+    "cfg": {
+        "intents": [
+            "MessageContent",
+            "Guilds",
+            "GuildBans",
+            "GuildEmojisAndStickers",
+            "GuildIntegrations",
+            "GuildWebhooks",
+            "GuildInvites",
+            "GuildVoiceStates",
+            "GuildMessages",
+            "GuildMessageReactions",
+            "GuildMessageTyping",
+            "DirectMessages",
+            "DirectMessageReactions",
+            "DirectMessageTyping"
+        ]
+    },
+    "blockedCommands": [
+        "shutdown"
+    ],
+    "allowUsers": [
+        "840559505308909599", "783789084485091348"
+    ]
+    
+}
